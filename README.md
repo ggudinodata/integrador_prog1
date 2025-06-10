@@ -34,12 +34,12 @@ Este proyecto es un trabajo práctico para la materia **Programación I**, donde
 * Un gráfico que ilustra claramente la eficiencia de la búsqueda binaria frente a la lineal en listas ordenadas.
 
 ## Video explicativo
-[Ver explicación completa del trabajo práctico en YouTube](https://www.youtube.com/watch?v=tu_codigo_aqui)
+[Ver explicación completa del trabajo práctico en YouTube](https://youtu.be/Ld7-Pj8LUKw)
 
 
-🧠 Autores
-José Ignacio Herbel
-Gabriel Medardo Gudiño
-Trabajo Práctico - Programación I
-Profesor: Ariel Enferrel
-Fecha de entrega: 9 de junio de 2025
+## Autores
+- José Ignacio Herbel
+- Gabriel Medardo Gudiño
+- Trabajo Práctico - Programación I
+- Profesor: Ariel Enferrel
+- Fecha de entrega: 9 de junio de 2025
